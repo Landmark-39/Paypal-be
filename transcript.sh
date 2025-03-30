@@ -7,4 +7,3 @@ if [ $CGPA -gt 2 ]
 then
 echo "congratulations"
 fi
-
