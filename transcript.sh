@@ -5,5 +5,5 @@ echo "please enter you current CGPA"
 read "CGPA"
 if [ $CGPA -gt 2 ]
 then
-echo "congratulations"
+echo "congratulations you have successfully moved to the next level"
 fi
